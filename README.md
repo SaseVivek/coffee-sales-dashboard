@@ -4,7 +4,7 @@ This dashboard is for presenting my insights to the regional manager of the coff
 
 
 
-**Result and Insights**
+**Result and Insights** 
 
 1.I have noticed that the Revenue is continuously growing.
 
