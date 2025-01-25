@@ -1,5 +1,5 @@
 # COFFEE SALES DASHBOARD
-![](Starbucks.jpg)
+![](starbuck.jpg)
 
 
 
